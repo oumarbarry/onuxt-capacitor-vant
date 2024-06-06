@@ -1,0 +1,5 @@
+{
+  "name": "onuxt-capacitor-vant",
+  "integrations": { "capacitor": {} },
+  "type": "custom"
+}
